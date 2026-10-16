@@ -1,6 +1,7 @@
 <div align="center">
 
-<img width="100%" src="https://github.com/user-attachments/assets/3b9a3c08-3852-4bb3-a971-bd7bc222222b" alt="Apasionado por el mundo que me rodea">
+<img width="1584" height="396" alt="Apasionado por el mundo que me rodea" src="https://github.com/user-attachments/assets/412be041-bf82-44e4-b3a0-2f96d0c57203" />
+
 
 <br>
 
